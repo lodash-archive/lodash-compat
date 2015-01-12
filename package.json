@@ -1,0 +1,17 @@
+{
+  "name": "lodash-compat",
+  "version": "3.0.0",
+  "main": "lodash.js",
+  "private": true,
+  "volo": {
+    "type": "directory",
+    "ignore": [
+      ".*",
+      "*.log",
+      "*.md",
+      "bower.json",
+      "component.json",
+      "node_modules"
+    ]
+  }
+}
