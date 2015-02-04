@@ -1,4 +1,4 @@
-# lodash-compat v3.0.1
+# lodash-compat v3.1.0
 
 The [compatibility build](https://github.com/lodash/lodash/wiki/Build-Differences) of [lodash](https://lodash.com/) exported as [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) modules.
 
