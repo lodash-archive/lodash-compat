@@ -1,7 +1,7 @@
 {
   "name": "lodash-compat",
   "repo": "lodash/lodash-compat",
-  "version": "3.8.0",
+  "version": "3.9.0",
   "description": "The compatibility build of lodash.",
   "license": "MIT",
   "main": "lodash.js",
