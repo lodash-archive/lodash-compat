@@ -1,4 +1,4 @@
-# lodash-compat v3.9.0
+# lodash-compat v3.9.2
 
 The [compatibility build](https://github.com/lodash/lodash/wiki/Build-Differences) of [lodash](https://lodash.com/) exported as [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) modules.
 
@@ -13,8 +13,8 @@ $ lodash compat exports=amd -d -o ./main.js
 Using bower or volo:
 
 ```bash
-$ bower i lodash-compat#3.9.0-amd
-$ volo add lodash-compat/3.9.0-amd
+$ bower i lodash-compat#3.9.2-amd
+$ volo add lodash-compat/3.9.2-amd
 ```
 
 Defining a build as `'lodash'`.
