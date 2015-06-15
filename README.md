@@ -1,4 +1,4 @@
-# lodash-compat v3.9.3
+# lodash-compat v3.10.0
 
 The [compatibility build](https://github.com/lodash/lodash/wiki/Build-Differences) of [lodash](https://lodash.com/) with packages for [Bower](http://bower.io/), [Component](http://component.github.io/), & [Volo](http://volojs.org/).
 
