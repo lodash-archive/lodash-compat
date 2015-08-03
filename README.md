@@ -1,4 +1,4 @@
-# lodash-compat v3.10.0
+# lodash-compat v3.10.1
 
 The [compatibility build](https://github.com/lodash/lodash/wiki/Build-Differences) of [lodash](https://lodash.com/) exported as [Node.js](http://nodejs.org/)/[io.js](https://iojs.org/) modules.
 
@@ -28,7 +28,7 @@ var array = require('lodash-compat/array');
 var chunk = require('lodash-compat/array/chunk');
 ```
 
-See the [package source](https://github.com/lodash/lodash-compat/tree/3.10.0-npm) for more details.
+See the [package source](https://github.com/lodash/lodash-compat/tree/3.10.1-npm) for more details.
 
 **Note:**<br>
 Don’t assign values to the [special variable](http://nodejs.org/api/repl.html#repl_repl_features) `_` when in the REPL.<br>
