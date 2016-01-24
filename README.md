@@ -1,8 +1,7 @@
-# lodash-compat v3.10.1
+# lodash-compat v3.10.2
 
-The [compatibility build](https://github.com/lodash/lodash/wiki/Build-Differences) of [lodash](https://lodash.com/) with packages for [Bower](http://bower.io/), [Component](http://component.github.io/), & [Volo](http://volojs.org/).
+The compatibility build of [lodash](https://lodash.com/) library exported as a [UMD](https://github.com/umdjs/umd) module.
 
-Generated using [lodash-cli](https://www.npmjs.com/package/lodash-cli):
-```bash
-$ lodash compat -o ./lodash.js
-```
+## Discontinued
+
+This package has been discontinued. No further development is expected.
