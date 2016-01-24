@@ -1,24 +1,14 @@
-# lodash-compat v3.10.1
+# lodash-compat v3.10.2
 
-The [compatibility build](https://github.com/lodash/lodash/wiki/Build-Differences) of [lodash](https://lodash.com/) exported as [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) modules.
+The compatibility build of [lodash](https://lodash.com/) exported as [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) modules.
 
-Generated using [lodash-cli](https://www.npmjs.com/package/lodash-cli):
-```bash
-$ lodash modularize compat exports=amd -o ./
-$ lodash compat exports=amd -d -o ./main.js
-```
+## Discontinued
+
+This package has been discontinued. No further development is expected.
 
 ## Installation
 
-Using bower or volo:
-
-```bash
-$ bower i lodash-compat#3.10.1-amd
-$ volo add lodash-compat/3.10.1-amd
-```
-
-Defining a build as `'lodash'`.
-
+Using an AMD loader:
 ```js
 require({
   'packages': [
